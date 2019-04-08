@@ -1,4 +1,4 @@
-# Jobinator-HackWinti-2019
+# Jobinator HackWinti-2019
 
 Website: <https://pandermatt.ch/Jobinator-Website/>
 
