@@ -1,6 +1,6 @@
 # Jobinator-HackWinti-2019
 
-WebApp: <http://pandermatt.ch/Jobinator-Website/>
+Website: <http://pandermatt.ch/Jobinator-Website/>
 
 Our Repos: 
 - Website: <https://github.com/pandermatt/Jobinator-Website>
